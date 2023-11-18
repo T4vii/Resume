@@ -32,6 +32,18 @@ a {
   flex-direction: column;
 }
 
+.first-project h3 {
+  display: inline-block;
+}
+
+.second-project h3 {
+  display: inline-block;
+}
+
+.third-project h3 {
+  display: inline-block;
+}
+
 .second-education h3 {
   display: inline-block;
 }
