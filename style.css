@@ -1,0 +1,65 @@
+* {
+  margin: 5px;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  scroll-behavior: smooth;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.my-name {
+  font-size: 28px;
+}
+
+a {
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+.skills-containter {
+  display: flex;
+}
+
+.skills-examples {
+  display: inline-block;
+  margin: 10px;
+}
+
+.familiar-examples {
+  display: flex;
+  flex-direction: column;
+}
+
+.second-education h3 {
+  display: inline-block;
+}
+
+.first-experience h4 {
+  display: inline-block;
+}
+
+.second-experience h4 {
+  display: inline-block;
+}
+
+.second-educationMaster h4 {
+  display: inline-block;
+}
+
+.second-educationLicenta h4 {
+  display: inline-block;
+}
+
+.first-education h3 {
+  display: inline-block;
+}
+
+.third-education h3 {
+  display: inline-block;
+}
+
+.fourth-education h3 {
+  display: inline-block;
+}
